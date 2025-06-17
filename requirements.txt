@@ -1,0 +1,9 @@
+
+streamlit
+yfinance
+newspaper3k
+vaderSentiment
+feedparser
+beautifulsoup4
+python-dotenv
+matplotlib
